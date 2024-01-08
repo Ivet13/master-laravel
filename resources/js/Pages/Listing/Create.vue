@@ -68,6 +68,6 @@ const create = () => form.post('/listing')
     margin-right: 2em;
   }
   div {
-    padding: 2px
+    padding: 2px;
   }
   </style>
